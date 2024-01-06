@@ -1,2 +1,4 @@
 # Crud
-Es una aplicación con sistema Crud (para poder editar, visualizar y borrar contenido )
+Es una aplicación con sistema Crud donde puedes agregar, borrar, modificar, actualizar datos y editar usuarios, tareas.
+
+
