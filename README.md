@@ -7,7 +7,7 @@ En este proyecto se aplico conforme a lo aprendido aplicacion crud, una idea de 
 
 # Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Edelabarra017/Landing-Pages.git
+1. Clona el repositorio: `git clone https://github.com/Edelabarra017/Crud.git
 2. Visualízalo en Visual Studio Code en la parte superior (open file)
 
 
@@ -18,4 +18,4 @@ En este proyecto se aplico conforme a lo aprendido aplicacion crud, una idea de 
 
  # URL 
 
- - https://edelabarra017.github.io/Mi-primer-repositorio-/Landing/
+ - https://edelabarra017.github.io/Crud/ 
