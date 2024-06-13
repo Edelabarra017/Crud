@@ -13,8 +13,7 @@ En este proyecto se aplico conforme a lo aprendido aplicacion crud, una idea de 
 
 # Uso
 
-- Su propósito es Educativo para el bootcamp, es la simulacion de una landing page, de una pagina para la venta de guitarras.
-
+- Su propósito es Educativo para el bootcamp, es la simulacion de un sistema crud donde puedes agregar,borrar, modificar, actualizar datos,editar usuarios y tareas. 
 
  # URL 
 
